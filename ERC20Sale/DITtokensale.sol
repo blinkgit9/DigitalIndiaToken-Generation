@@ -8,6 +8,7 @@ abstract contract ERC20 {
 
 }
 
+
 contract DITSale {
     uint public  tokenPriceinWei = 1 ether;
     ERC20 public token;
